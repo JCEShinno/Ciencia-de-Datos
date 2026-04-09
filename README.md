@@ -50,6 +50,16 @@ Administra una lista de contactos y entrega métodos para:
 ## Requisitos
 - Python 3
 
+## Pruebas
+
+Para ejecutar las pruebas unitarias:
+
+python -m unittest discover tests
+
+Resultado actual:
+Ran 5 tests in 0.001s
+OK
+
 ## Ejecución
 Desde la terminal, ubicarse en la carpeta del proyecto y ejecutar:
 
